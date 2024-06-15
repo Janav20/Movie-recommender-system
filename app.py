@@ -36,7 +36,7 @@ def recommend(movie):
     return recommended_movie_names, recommended_movie_posters, recommended_movie_details
 
 # Title and Header
-st.title("🎬 Movie Recommender System 🍿")
+st.title("🎬 Movie Recommender System")
 st.subheader("Find Your Next Favorite Movie!")
 st.write("Explore movie recommendations based on your favorite titles. Simply select a movie and get top recommendations tailored just for you.")
 
@@ -77,12 +77,12 @@ st.markdown(
         right: 0;
         text-align: center;
         padding: 1rem;
-        background: #f0f0f5;
-        color: black;
+        background: black;
+        color: white;
     }
     </style>
     <div class="footer">
-        Made with 💖 by Janav Shetty(https://github.com/Janav20)
+        Made with 💖 by Janav Shetty
     </div>
     """,
     unsafe_allow_html=True
