@@ -54,5 +54,5 @@ This project is a Movie Recommender System developed using Python, Pandas, sciki
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 ## Contact
-If you have any questions or suggestions, please feel free to contact me at [shettyjanav@example.com](shettyjanav@example.com).
+If you have any questions or suggestions, please feel free to contact me at [shettyjanav@gmail.com](shettyjanav@gmail.com).
 
