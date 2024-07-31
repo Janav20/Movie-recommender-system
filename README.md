@@ -27,7 +27,7 @@ This project is a Movie Recommender System developed using Python, Pandas, sciki
     ```
 2. Navigate to the project directory:
     ```bash
-    cd movierecommender
+    cd Movie-recommender-system-main
     ```
 3. Install the required packages:
     ```bash
