@@ -23,7 +23,7 @@ This project is a Movie Recommender System developed using Python, Pandas, sciki
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/movierecommender.git
+    git clone https://github.com/Janav20/Movie-recommender-system.git
     ```
 2. Navigate to the project directory:
     ```bash
